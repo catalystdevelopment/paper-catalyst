@@ -1,4 +1,4 @@
-# paper-turtle
+# paper-catalyst
 
 ## How to fork for your own coin
 Edit the values in index.html on lines 28, 31, 47, 65, 85 to your coin  
