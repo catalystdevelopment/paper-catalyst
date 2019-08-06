@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "name": "catalyst-wallet",
+  "alias": [
+    "wallet.catalyst-labs.gq"
+  ],
+  "builds": [
+    {
+      "src": "**",
+      "use": "@now/static"
+    }
+  ]
+}
